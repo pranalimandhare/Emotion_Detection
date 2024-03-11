@@ -7,5 +7,3 @@ To use this Emotion detection Model
 3. run the gui.py file [python gui.py][conda activate folder_name]
 4. upload the image in gui.
 5. click on detect to see the result
-6. 
-7. 
